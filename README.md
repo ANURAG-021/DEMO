@@ -1,3 +1,3 @@
 # DEMO
-This is my first git repository
-By Anurag
+This is my first git repository.
+Writer Anurag
